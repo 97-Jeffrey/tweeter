@@ -15,15 +15,15 @@ To view this app, navigate to [heroku](https://small-simple-chatter.herokuapp.co
 
 ## Some ScreenShots:
 
-User can tweet in textbox area, and text will show below:
-![](https://github.com/97-Jeffrey/tweeter/blob/master/docs/Screen%20Shot%202021-02-07%20at%209.17.45%20PM.png?raw=true)
+### User can tweet in textbox area, and text will show below:
 
-![](https://github.com/97-Jeffrey/tweeter/blob/master/docs/Screen%20Shot%202021-02-07%20at%209.18.32%20PM.png?raw=true)
+![](https://github.com/97-Jeffrey/tweeter/blob/master/docs/Screen%20Shot%202021-03-17%20at%204.55.44%20PM.png?raw=true)
 
-User can not send empty tweet or super long tweet:
-![](https://github.com/97-Jeffrey/tweeter/blob/master/docs/Screen%20Shot%202021-02-07%20at%209.14.55%20PM.png?raw=true)
+### User can not send empty tweet or super long tweet:
 
-![](https://github.com/97-Jeffrey/tweeter/blob/master/docs/Screen%20Shot%202021-02-07%20at%209.16.09%20PM.png?raw=true)
+![](https://github.com/97-Jeffrey/tweeter/blob/master/docs/Screen%20Shot%202021-03-17%20at%204.57.50%20PM.png?raw=true)
+
+![](https://github.com/97-Jeffrey/tweeter/blob/master/docs/Screen%20Shot%202021-03-17%20at%204.58.35%20PM.png?raw=true)
 
 ## Some Code Snippets:
 
